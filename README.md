@@ -9,7 +9,7 @@
 - <b>Running Penguin</b>
   - [Subway Surfer clone](https://github.com/Ademicope/Pingu)
 
-<h2>3d Pojects</h2>
+<h2>3d Projects</h2>
 
 - [Blending](https://www.behance.net/gallery/188181259/Blending)
 - [Archviz](https://www.behance.net/gallery/186983979/3d-visualisation)
